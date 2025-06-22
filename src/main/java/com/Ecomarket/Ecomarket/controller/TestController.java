@@ -8,6 +8,6 @@ public class TestController {
 
     @GetMapping("/")
     public String home() {
-        return "¡EcoMarket API está corriendo!";
+        return "¡EcoMarket está funcionando correctamente!";
     }
 }
